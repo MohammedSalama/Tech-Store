@@ -6,7 +6,7 @@ Laptop
 Pc 
 Television 
 Tablet
-### Lalnguage Used:
+### Language Used:
 Html 
 Php 
 Validation Php 
